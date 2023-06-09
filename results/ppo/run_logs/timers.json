@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1683143284",
+        "python_version": "3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\JetBrains\\Unity\\Cube - Reinforcement Learning\\venv\\Scripts\\mlagents-learn --inference --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1683143314"
+    },
+    "total": 29.0499279,
+    "count": 1,
+    "self": 0.0030953000000017994,
+    "children": {
+        "run_training.setup": {
+            "total": 0.08979589999999993,
+            "count": 1,
+            "self": 0.08979589999999993
+        },
+        "TrainerController.start_learning": {
+            "total": 28.9570367,
+            "count": 1,
+            "self": 0.00029050000000196974,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 28.956745299999998,
+                    "count": 1,
+                    "self": 28.956745299999998
+                },
+                "trainer_threads": {
+                    "total": 8.999999998593466e-07,
+                    "count": 1,
+                    "self": 8.999999998593466e-07
+                }
+            }
+        }
+    }
+}
