@@ -193,6 +193,6 @@ GAIL has practical applications in various fields, such as robotic learning and 
 
 ## BIBLIOGRAPHICAL REFERENCES
 
-[1] Roozbeh Razavi-Far, Ariel Ruiz-Garcia, Vasile Palade, Juergen Schmidhuber, Generative Adversarial Learning: Architectures and Applications, Springer, 2022, pp. 23-31.<br>
-[2] Cristopher M. Bishop, Pattern recognition and Machine Learning, 1st ed., Springer, 2006, pp. 227-232.<br>
+[1] Roozbeh Razavi-Far, Ariel Ruiz-Garcia, Vasile Palade, Juergen Schmidhuber, Generative Adversarial Learning: Architectures and Applications, Springer, 2022, pp. 23-31.<br><br>
+[2] Cristopher M. Bishop, Pattern recognition and Machine Learning, 1st ed., Springer, 2006, pp. 227-232.<br><br>
 [3] Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, “Mathematics for Machine Learning”, 2022, pp. 251–258.
